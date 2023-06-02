@@ -1,5 +1,5 @@
 # Geolocation-Prediction-from-Tweets-Yachay.ai
-Contains the following:
+The following includes an overview of an externship project for Yachay.ai:
 -Built functional api regression model that incorporates a deep learning approach with BERT.
 -Also includes the preprocessing and EDA of over 600,000 tweets 
 -Each row inlcuded the following user data"
