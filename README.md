@@ -1,10 +1,10 @@
 Welcome to the repository for the Geolocation Prediction from Tweets project, developed during an externship at Yachay.ai. This project aims to predict the geolocation of tweets by leveraging deep learning techniques. Below is an overview of the project:
 
-Project Overview
-Preprocessed and performed Exploratory Data Analysis (EDA) on a dataset containing over 600,000 tweets.
-Developed and trained a Keras functional API regression model that incorporates a deep learning approach using BERT for geolocation prediction.
-Dataset and User Data
-The dataset consists of tweet information, with each row containing the following user data:
+# Project Overview
+- Preprocessed and performed Exploratory Data Analysis (EDA) on a dataset containing over 600,000 tweets.
+- Developed and trained a Keras functional API regression model that incorporates a deep learning approach using BERT for geolocation prediction.
+- Dataset and User Data
+- The dataset consists of tweet information, with each row containing the following user data:
 
 'text': The content of the tweet.
 'id': The unique ID of the tweet.
@@ -13,8 +13,9 @@ The dataset consists of tweet information, with each row containing the followin
 'timestamp': The date and time when the tweet was posted.
 'lat': The latitude of the tweet.
 'lng': The longitude of the tweet.
-Added Features
-Additional features were incorporated into the model, including:
+
+# Added Features
+-Additional features were incorporated into the model, including:
 
 'region': The region location of the tweet.
 'language': The language of the tweet.
