@@ -6,28 +6,28 @@ Welcome to the repository for the Geolocation Prediction from Tweets project, de
 - Dataset and User Data
 - The dataset consists of tweet information, with each row containing the following user data:
 
-'text': The content of the tweet.
-'id': The unique ID of the tweet.
-'user_id': The ID of the user who posted the tweet.
-'cluster_id': The assigned ID related to the area from which the tweet was posted.
-'timestamp': The date and time when the tweet was posted.
-'lat': The latitude of the tweet.
-'lng': The longitude of the tweet.
+- 'text': The content of the tweet.
+- 'id': The unique ID of the tweet.
+- 'user_id': The ID of the user who posted the tweet.
+- 'cluster_id': The assigned ID related to the area from which the tweet was posted.
+- 'timestamp': The date and time when the tweet was posted.
+- 'lat': The latitude of the tweet.
+- 'lng': The longitude of the tweet.
 
 # Added Features
-- Additional features were incorporated into the model, including:
+Additional features were incorporated into the model, including:
 
-'region': The region location of the tweet.
-'language': The language of the tweet.
-'tweet_day': The day the tweet was posted.
-'tweet_month': The month the tweet was posted.
+- 'region': The region location of the tweet.
+- 'language': The language of the tweet.
+- 'tweet_day': The day the tweet was posted.
+- 'tweet_month': The month the tweet was posted.
 
 #Model Inputs and Loss Metrics
-- The model takes two inputs: 'text' and three different Natural Language Processing (NLP) features. These NLP features are:
+The model takes two inputs: 'text' and three different Natural Language Processing (NLP) features. These NLP features are:
 
-'tweet month': The month in which the tweet was posted.
-'tweet day': The day of the tweet.
-'language of tweet': The language in which the tweet was written.
+- 'tweet month': The month in which the tweet was posted.
+- 'tweet day': The day of the tweet.
+- 'language of tweet': The language in which the tweet was written.
 
 # The model's loss metrics include:
 
