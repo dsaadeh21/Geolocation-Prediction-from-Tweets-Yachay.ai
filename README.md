@@ -31,8 +31,8 @@ Welcome to the repository for the Geolocation Prediction from Tweets project, de
 
 # The model's loss metrics include:
 
-'haversine_distance': Calculates the distance in kilometers.
-'mse': Mean Squared Error.
+- 'haversine_distance': Calculates the distance in kilometers.
+- 'mse': Mean Squared Error.
 
 # Results
 The model was trained for 7 epochs, and the performance on the test set was as follows:
