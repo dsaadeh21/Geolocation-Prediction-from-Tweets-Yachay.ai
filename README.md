@@ -1,3 +1,5 @@
+![image](https://github.com/dsaadeh21/Geolocation-Prediction-from-Tweets-Yachay.ai/assets/110855552/6ee0077d-ee91-4838-939d-66f954cdca1f)
+
 Welcome to the repository for the Geolocation Prediction from Tweets project, developed during an externship at Yachay.ai. This project aims to predict the geolocation of tweets by leveraging deep learning techniques. Below is an overview of the project:
 
 # Project Overview
