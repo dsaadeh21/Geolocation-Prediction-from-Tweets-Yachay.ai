@@ -45,8 +45,8 @@ The model was trained for 7 epochs, and the performance on the test set was as f
 It is worth noting that a similar model trained solely on tweet text as input yielded higher loss and mse values, indicating that incorporating NLP features improves the overall performance.
 
 Please explore the code and documentation within this repository for more details about the project and its implementation.
-
 - Note: The provided results are based on a specific experiment, and your results may vary depending on the dataset and configuration used.
+
 ![image](https://github.com/dsaadeh21/Geolocation-Prediction-from-Tweets-Yachay.ai/assets/110855552/ef67720b-bb92-40f8-ae9e-9bd5f4ffb889)
 ![image](https://github.com/dsaadeh21/Geolocation-Prediction-from-Tweets-Yachay.ai/assets/110855552/f1a9f22a-0144-4427-b3dc-c46aff6ad0ad)
 
