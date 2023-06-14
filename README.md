@@ -47,6 +47,5 @@ It is worth noting that a similar model trained solely on tweet text as input yi
 Please explore the code and documentation within this repository for more details about the project and its implementation.
 - Note: The provided results are based on a specific experiment, and your results may vary depending on the dataset and configuration used.
 
-![image](https://github.com/dsaadeh21/Geolocation-Prediction-from-Tweets-Yachay.ai/assets/110855552/ef67720b-bb92-40f8-ae9e-9bd5f4ffb889)
-![image](https://github.com/dsaadeh21/Geolocation-Prediction-from-Tweets-Yachay.ai/assets/110855552/1a3efc18-de27-40ea-b8e4-54d2b3bbe387)
+![image](https://github.com/dsaadeh21/Geolocation-Prediction-from-Tweets-Yachay.ai/assets/110855552/81d45194-5ca0-4aa9-ae62-d09ff62cd78f)
 
